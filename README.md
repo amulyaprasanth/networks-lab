@@ -1,5 +1,5 @@
-# neurolab-java
+# Network and Communication lab excercises
 
-Command to run HelloWorld.java file:
+This repository contains socket programmming in Java
 
-```javac HelloWorld.java && java HelloWorld```
+**Step by Step Instructions to run the programs: **
