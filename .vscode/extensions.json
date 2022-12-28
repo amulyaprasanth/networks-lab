@@ -1,9 +1,0 @@
-{
-  "recommendations": [
-    "redhat.java",
-    "vscjava.vscode-java-debug",
-    "formulahendry.code-runner",
-    "VisualStudioExptTeam.vscodeintellicode",
-    "VisualStudioExptTeam.intellicode-api-usage-examples"
-  ]
-}
