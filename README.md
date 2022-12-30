@@ -9,5 +9,5 @@ This repository contains socket programmming in Java
 <img src="./cmd.png">
 4. Now command prompt window will be appeared
 5. Type `javac filename.java` and press enter. (First server program should be run in order to correctly run the programs)
-**Note:** Filename should be same as public class name.
-5. Repeat the steps from 3 to 5 for client program also.
+> **Note:** Filename should be same as public class name.
+6. Repeat the steps from 3 to 5 for client program also.
